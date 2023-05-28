@@ -1,2 +1,2 @@
 # davomat
-Barmoq izi skaneri uchun sayt
+Barmoq izi skaneri uchun sayt.
